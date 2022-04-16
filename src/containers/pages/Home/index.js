@@ -5,6 +5,7 @@ import {
   SectionHeader,
   SectionContent1,
   SectionContent2,
+  SectionContent3,
   Footer,
 } from "components/molecules";
 
@@ -28,6 +29,7 @@ class index extends Component {
         <Main>
           <SectionContent1 />
           <SectionContent2 />
+          <SectionContent3 />
         </Main>
         <Footer />
       </>
