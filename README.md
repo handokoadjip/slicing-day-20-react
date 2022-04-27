@@ -1,11 +1,11 @@
-# Day 19: Quadra Collective
+# Day 20: Valdama
 
-[![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://github.com/handokoadjip/slicing-day-19-react)
-[![stability-experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/handokoadjip/slicing-day-19-react)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/handokoadjip/slicing-day-19-react/fork)
+[![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://github.com/handokoadjip/slicing-day-20-react)
+[![stability-experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/handokoadjip/slicing-day-20-react)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/handokoadjip/slicing-day-20-react/fork)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Day 19, I will show you the slicing to react of the beautiful designs made by https://pin.it/22HdwFn.
+Day 20, I will show you the slicing to react of the beautiful designs made by https://pin.it/1qO1w6P.
 
 For those who want to contribute, just fork or download as usual!
 
@@ -18,11 +18,11 @@ For those who want to contribute, just fork or download as usual!
 
 Clone the repository
 
-    git clone git@github.com:handokoadjipangestu/slicing-day-19-react.git
+    git clone git@github.com:handokoadjipangestu/slicing-day-20-react.git
 
 ## Usage example
 
-![Home](https://bebaskripsi.000webhostapp.com/slicing-day-19/home.png)
+![Home](https://bebaskripsi.000webhostapp.com/slicing-day-20/home.png)
 
 _For more examples and usage, please contact [Handoko Adji Pangestu](https://www.instagram.com/handokoadp/)._
 
@@ -30,7 +30,7 @@ _For more examples and usage, please contact [Handoko Adji Pangestu](https://www
 
 Switch to the repo folder
 
-    cd slicing-day-19-react
+    cd slicing-day-20-react
 
 Install all the dependencies using npm or yarn
 
@@ -57,7 +57,7 @@ Distributed under the MIT license. See `LICENSE` for more information.
 
 ## Contributing
 
-1. Fork it (<https://github.com/handokoadjip/slicing-day-19-react/fork>)
+1. Fork it (<https://github.com/handokoadjip/slicing-day-20-react/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
